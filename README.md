@@ -8,6 +8,7 @@ Freely distributed for educational and research purposes only.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
+#### Cite: 
 ```
-Cite: A. Joshi, M. S. Khan, S. Soomro, A. Niaz, B. S. Han and K. N. Choi, "SRIS: Saliency-Based Region Detection and Image Segmentation of COVID-19 Infected Cases," IEEE Access, vol. 8, pp. 190487-190503, 2020.
+A. Joshi, M. S. Khan, S. Soomro, A. Niaz, B. S. Han and K. N. Choi, "SRIS: Saliency-Based Region Detection and Image Segmentation of COVID-19 Infected Cases," IEEE Access, vol. 8, pp. 190487-190503, 2020.
 ```
