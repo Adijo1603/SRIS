@@ -1,4 +1,4 @@
-# SRIS
+# SRIS: Saliency-Based Region Detection and Image Segmentation of COVID-19 Infected
 
 Copyright (c) 2020, Aditi Joshi and Kwang Nam Choi, Chung-Ang University
 All rights reserved.
