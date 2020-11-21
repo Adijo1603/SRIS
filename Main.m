@@ -12,7 +12,7 @@
 %%
 clear;clc;close
 %% input image
-Img = imread('C:\Users\SK\Desktop\SRIS\test_images\circle2.jpg');
+Img = imread('C:\Users\SRIS\test_images\1.jpg');
 color_space = 'rgb';    % Choose hsv for real images or rgb for synthetic images
 
 %% Parameter set
