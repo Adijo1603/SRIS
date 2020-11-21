@@ -28,7 +28,7 @@ sigma = 1;              % scale parameter in Gaussian kernel
 %%
 [rows, cols,~] = size(Img);
 T1 = rows.*cols.*0.005;
-T2 = rows.*cols.*0.005;
+T2 = rows.*cols.*0.001;
 if size(Img,3) ~= 3
     Img = repmat(Img,1,1,3);
 end
