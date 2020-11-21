@@ -12,3 +12,7 @@ modification, are permitted provided that the following conditions are met:
 ```
 A. Joshi, M. S. Khan, S. Soomro, A. Niaz, B. S. Han and K. N. Choi, "SRIS: Saliency-Based Region Detection and Image Segmentation of COVID-19 Infected Cases," IEEE Access, vol. 8, pp. 190487-190503, 2020.
 ```
+#### Link:
+```
+https://ieeexplore.ieee.org/document/9229412?denied=
+```
